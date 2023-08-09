@@ -1,4 +1,4 @@
-  3  apt update
+  3  apt update -y
     4  sudo apt -y upgrade && sudo systemctl reboot
     5  sudo apt update
     6  sudo apt -y install curl apt-transport-https
